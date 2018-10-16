@@ -1,0 +1,19 @@
+{
+  "name": "meanstackproject",
+  "version": "1.0.0",
+  "description": "Mean Stack Project developing using Mean Stack tech stack",
+  "main": "config.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwethaChallam/MeanSatckProject.git"
+  },
+  "author": "Swetha Challam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwethaChallam/MeanSatckProject/issues"
+  },
+  "homepage": "https://github.com/SwethaChallam/MeanSatckProject#readme"
+}
