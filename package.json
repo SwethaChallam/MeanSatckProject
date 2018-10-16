@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SwethaChallam/MeanSatckProject/issues"
   },
-  "homepage": "https://github.com/SwethaChallam/MeanSatckProject#readme"
+  "homepage": "https://github.com/SwethaChallam/MeanSatckProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
